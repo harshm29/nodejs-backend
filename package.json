@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-backend",
+  "version": "1.0.0",
+  "description": "nodejs 20",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshm29/nodejs-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Harsh Makavana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshm29/nodejs-backend/issues"
+  },
+  "homepage": "https://github.com/harshm29/nodejs-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  }
+}
