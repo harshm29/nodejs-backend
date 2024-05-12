@@ -4,6 +4,8 @@ coverage
 
 # Ignore all HTML files:
 **/*.html
-
-node_modules
+./.vscode
+/node_modules
+./dist
+*.env
 .env
